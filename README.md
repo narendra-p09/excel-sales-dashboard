@@ -122,7 +122,7 @@ The dataset contains information about:
 
  📸 Dashboard Preview
 
-![Dashboard Preview](Global_Superstore_dashboard.png)
+![Dashboard Preview](Global_Superstore_Dashboard.png)
 
 ---
 
